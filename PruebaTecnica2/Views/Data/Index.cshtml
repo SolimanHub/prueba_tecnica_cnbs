@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Data";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/data.css" />
+}
+
+<h1>Prueba Técnica CNBS</h1>
+
+<div>
+    <label for="fechaDeclaracion">Fecha de declaración:</label>
+    <input type="text" id="fechaDeclaracion" name="fechaDeclaracion" placeholder="yyyy-mm-dd" value="2021-06-20">
+    <button id="viewJsonButton">Ver JSON</button>
+    <button id="saveDataButton">Guardar Datos</button>
+    <button id="exploreDataButton">Explorar Datos</button>
+</div>
+
+<div id="resultMessage" style="margin-top: 20px; color: green;"></div>
+
+<div id="exploreDataForm" style="display: none; margin-top: 20px;">
+    <label for="nddtimmioe">Número de identificación del importador/exportador:</label>
+    <input type="text" id="nddtimmioe" name="nddtimmioe">
+    <button id="showDataButton">Mostrar</button>
+</div>
+
+<div id="exploreDataResult" style="margin-top: 20px;"></div>
+
+@section Scripts {
+    <script src="~/js/data.js"></script>
+}

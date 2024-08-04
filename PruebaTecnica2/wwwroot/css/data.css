@@ -1,0 +1,67 @@
+﻿body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #333;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input[type="text"] {
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+    button:hover {
+        background-color: #0056b3;
+    }
+
+#resultMessage {
+    margin-top: 20px;
+}
+
+#exploreDataForm {
+    margin-top: 20px;
+}
+
+#exploreDataResult {
+    margin-top: 20px;
+}
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.card {
+    width: 30%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: #fff;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+strong {
+    display: block;
+    margin-bottom: 5px;
+    color: #555;
+}

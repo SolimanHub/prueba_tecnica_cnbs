@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Documents\\net\\Projects\\ArchivosPruebaTecnica\\PruebaTecnica2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9D7920-3E61-4CFC-8EB3-DE2866B67C3F}|PruebaTecnica2.csproj|c:\\users\\usuario\\documents\\net\\projects\\archivospruebatecnica\\pruebatecnica2\\wwwroot\\js\\data.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FE9D7920-3E61-4CFC-8EB3-DE2866B67C3F}|PruebaTecnica2.csproj|solutionrelative:wwwroot\\js\\data.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9D7920-3E61-4CFC-8EB3-DE2866B67C3F}|PruebaTecnica2.csproj|c:\\users\\usuario\\documents\\net\\projects\\archivospruebatecnica\\pruebatecnica2\\views\\data\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE9D7920-3E61-4CFC-8EB3-DE2866B67C3F}|PruebaTecnica2.csproj|solutionrelative:views\\data\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9D7920-3E61-4CFC-8EB3-DE2866B67C3F}|PruebaTecnica2.csproj|c:\\users\\usuario\\documents\\net\\projects\\archivospruebatecnica\\pruebatecnica2\\wwwroot\\css\\data.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FE9D7920-3E61-4CFC-8EB3-DE2866B67C3F}|PruebaTecnica2.csproj|solutionrelative:wwwroot\\css\\data.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9D7920-3E61-4CFC-8EB3-DE2866B67C3F}|PruebaTecnica2.csproj|c:\\users\\usuario\\documents\\net\\projects\\archivospruebatecnica\\pruebatecnica2\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9D7920-3E61-4CFC-8EB3-DE2866B67C3F}|PruebaTecnica2.csproj|solutionrelative:controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9D7920-3E61-4CFC-8EB3-DE2866B67C3F}|PruebaTecnica2.csproj|c:\\users\\usuario\\documents\\net\\projects\\archivospruebatecnica\\pruebatecnica2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE9D7920-3E61-4CFC-8EB3-DE2866B67C3F}|PruebaTecnica2.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9D7920-3E61-4CFC-8EB3-DE2866B67C3F}|PruebaTecnica2.csproj|c:\\users\\usuario\\documents\\net\\projects\\archivospruebatecnica\\pruebatecnica2\\pruebatecnica2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FE9D7920-3E61-4CFC-8EB3-DE2866B67C3F}|PruebaTecnica2.csproj|solutionrelative:pruebatecnica2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9D7920-3E61-4CFC-8EB3-DE2866B67C3F}|PruebaTecnica2.csproj|c:\\users\\usuario\\documents\\net\\projects\\archivospruebatecnica\\pruebatecnica2\\models\\lqa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9D7920-3E61-4CFC-8EB3-DE2866B67C3F}|PruebaTecnica2.csproj|solutionrelative:models\\lqa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9D7920-3E61-4CFC-8EB3-DE2866B67C3F}|PruebaTecnica2.csproj|c:\\users\\usuario\\documents\\net\\projects\\archivospruebatecnica\\pruebatecnica2\\models\\ddt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9D7920-3E61-4CFC-8EB3-DE2866B67C3F}|PruebaTecnica2.csproj|solutionrelative:models\\ddt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9D7920-3E61-4CFC-8EB3-DE2866B67C3F}|PruebaTecnica2.csproj|c:\\users\\usuario\\documents\\net\\projects\\archivospruebatecnica\\pruebatecnica2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9D7920-3E61-4CFC-8EB3-DE2866B67C3F}|PruebaTecnica2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9D7920-3E61-4CFC-8EB3-DE2866B67C3F}|PruebaTecnica2.csproj|c:\\users\\usuario\\documents\\net\\projects\\archivospruebatecnica\\pruebatecnica2\\models\\art.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9D7920-3E61-4CFC-8EB3-DE2866B67C3F}|PruebaTecnica2.csproj|solutionrelative:models\\art.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9D7920-3E61-4CFC-8EB3-DE2866B67C3F}|PruebaTecnica2.csproj|c:\\users\\usuario\\documents\\net\\projects\\archivospruebatecnica\\pruebatecnica2\\models\\liq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9D7920-3E61-4CFC-8EB3-DE2866B67C3F}|PruebaTecnica2.csproj|solutionrelative:models\\liq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9D7920-3E61-4CFC-8EB3-DE2866B67C3F}|PruebaTecnica2.csproj|c:\\users\\usuario\\documents\\net\\projects\\archivospruebatecnica\\pruebatecnica2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE9D7920-3E61-4CFC-8EB3-DE2866B67C3F}|PruebaTecnica2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9D7920-3E61-4CFC-8EB3-DE2866B67C3F}|PruebaTecnica2.csproj|c:\\users\\usuario\\documents\\net\\projects\\archivospruebatecnica\\pruebatecnica2\\models\\dbcnbscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9D7920-3E61-4CFC-8EB3-DE2866B67C3F}|PruebaTecnica2.csproj|solutionrelative:models\\dbcnbscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\net\\Projects\\ArchivosPruebaTecnica\\PruebaTecnica2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\net\\Projects\\ArchivosPruebaTecnica\\PruebaTecnica2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T07:18:49.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "data.css",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\net\\Projects\\ArchivosPruebaTecnica\\PruebaTecnica2\\wwwroot\\css\\data.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\data.css",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\net\\Projects\\ArchivosPruebaTecnica\\PruebaTecnica2\\wwwroot\\css\\data.css",
+              "RelativeToolTip": "wwwroot\\css\\data.css",
+              "ViewState": "AQIAABkAAAAAAAAAAAAuwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-04T07:14:09.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "data.js",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\net\\Projects\\ArchivosPruebaTecnica\\PruebaTecnica2\\wwwroot\\js\\data.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\data.js",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\net\\Projects\\ArchivosPruebaTecnica\\PruebaTecnica2\\wwwroot\\js\\data.js",
+              "RelativeToolTip": "wwwroot\\js\\data.js",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBgAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-04T07:07:33.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PruebaTecnica2.csproj",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\net\\Projects\\ArchivosPruebaTecnica\\PruebaTecnica2\\PruebaTecnica2.csproj",
+              "RelativeDocumentMoniker": "PruebaTecnica2.csproj",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\net\\Projects\\ArchivosPruebaTecnica\\PruebaTecnica2\\PruebaTecnica2.csproj",
+              "RelativeToolTip": "PruebaTecnica2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-04T07:06:18.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LQA.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\net\\Projects\\ArchivosPruebaTecnica\\PruebaTecnica2\\Models\\LQA.cs",
+              "RelativeDocumentMoniker": "Models\\LQA.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\net\\Projects\\ArchivosPruebaTecnica\\PruebaTecnica2\\Models\\LQA.cs",
+              "RelativeToolTip": "Models\\LQA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:34:20.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LIQ.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\net\\Projects\\ArchivosPruebaTecnica\\PruebaTecnica2\\Models\\LIQ.cs",
+              "RelativeDocumentMoniker": "Models\\LIQ.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\net\\Projects\\ArchivosPruebaTecnica\\PruebaTecnica2\\Models\\LIQ.cs",
+              "RelativeToolTip": "Models\\LIQ.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:34:05.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DDT.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\net\\Projects\\ArchivosPruebaTecnica\\PruebaTecnica2\\Models\\DDT.cs",
+              "RelativeDocumentMoniker": "Models\\DDT.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\net\\Projects\\ArchivosPruebaTecnica\\PruebaTecnica2\\Models\\DDT.cs",
+              "RelativeToolTip": "Models\\DDT.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAIAxwEMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:33:49.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ART.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\net\\Projects\\ArchivosPruebaTecnica\\PruebaTecnica2\\Models\\ART.cs",
+              "RelativeDocumentMoniker": "Models\\ART.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\net\\Projects\\ArchivosPruebaTecnica\\PruebaTecnica2\\Models\\ART.cs",
+              "RelativeToolTip": "Models\\ART.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAuwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:33:34.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DBCNBSContext.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\net\\Projects\\ArchivosPruebaTecnica\\PruebaTecnica2\\Models\\DBCNBSContext.cs",
+              "RelativeDocumentMoniker": "Models\\DBCNBSContext.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\net\\Projects\\ArchivosPruebaTecnica\\PruebaTecnica2\\Models\\DBCNBSContext.cs",
+              "RelativeToolTip": "Models\\DBCNBSContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:13:22.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\net\\Projects\\ArchivosPruebaTecnica\\PruebaTecnica2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\net\\Projects\\ArchivosPruebaTecnica\\PruebaTecnica2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-03T07:01:36.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\net\\Projects\\ArchivosPruebaTecnica\\PruebaTecnica2\\Views\\Data\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Data\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\net\\Projects\\ArchivosPruebaTecnica\\PruebaTecnica2\\Views\\Data\\Index.cshtml",
+              "RelativeToolTip": "Views\\Data\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T06:31:07.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\net\\Projects\\ArchivosPruebaTecnica\\PruebaTecnica2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\net\\Projects\\ArchivosPruebaTecnica\\PruebaTecnica2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T08:00:38.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\net\\Projects\\ArchivosPruebaTecnica\\PruebaTecnica2\\Controllers\\DataController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DataController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\net\\Projects\\ArchivosPruebaTecnica\\PruebaTecnica2\\Controllers\\DataController.cs",
+              "RelativeToolTip": "Controllers\\DataController.cs",
+              "ViewState": "AQIAAAUBAAAAAAAAAAAmwC0BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T07:56:51.809Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
